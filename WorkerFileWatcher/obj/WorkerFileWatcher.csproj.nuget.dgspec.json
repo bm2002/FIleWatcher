@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj": {}
+    "c:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj": {}
   },
   "projects": {
-    "C:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj": {
+    "c:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
+        "projectUniqueName": "c:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
         "projectName": "WorkerFileWatcher",
-        "projectPath": "C:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
+        "projectPath": "c:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
         "packagesPath": "C:\\Users\\bm_20\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\FIleWatcher\\WorkerFileWatcher\\obj\\",
+        "outputPath": "c:\\source\\FIleWatcher\\WorkerFileWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

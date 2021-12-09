@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VR/xXex3Li/BphEY1ajN45AHxlQjql3LMiHCcm5g5+wrifWlThORvEJGn0cXHIVh64SiUXzAYvzkTk/0ftV7Dw==",
+  "dgSpecHash": "iAvI7w9LI7kzwAeofE7tpypCyWGlDs9qtBe0atBMIFyokZbzb63IextZRba1D3BTlcU558TirukyCaMu+p1m/A==",
   "success": true,
-  "projectFilePath": "C:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
+  "projectFilePath": "c:\\source\\FIleWatcher\\WorkerFileWatcher\\WorkerFileWatcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bm_20\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\bm_20\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

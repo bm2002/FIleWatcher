@@ -33,7 +33,7 @@ namespace WorkerFileWatcher
                 var task = Task.Factory.StartNew(() => ReadFiles());
                 task.Wait(stoppingToken);
 
-                Thread.Sleep(10000);
+                Thread.Sleep(1000);
             }
         }
 
@@ -110,7 +110,6 @@ namespace WorkerFileWatcher
                 return;
             }
             Interlocked.Increment(ref _sOtherCounter);
-            Thread.Sleep(5000);
             ConsoleWriteLineWithTime(file);
             File.Delete(file);
             ConsoleWriteLineWithTime($"Обработано других файлов: {_sOtherCounter}");
